@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+# about
+My name is Sahrul Laila Safitri, I am a UI/UX Designer. I have a considerable amout of research and UI design skill. 
 
 <!--
 **elladrzl/elladrzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
